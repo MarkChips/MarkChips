@@ -1,5 +1,5 @@
 ## Hello chaps! 👋
-![Visitor Count](https://komarev.com/ghpvc/?username=MarkChips)
+![Visitor Count since 24/08/24](https://komarev.com/ghpvc/?username=MarkChips)
 <!--
 **MarkChips/MarkChips** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
